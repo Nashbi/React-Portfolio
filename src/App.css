@@ -30,7 +30,7 @@
   position: absolute;
   font-family: DynaPuff;
   top: 100px;
-  left: 320px;
+  left: 400px;
   color: white;
   width: 100%;
 }
@@ -39,7 +39,7 @@
   position: absolute;
 
   top: 145px;
-  left: 335px;
+  left: 420px;
   color: white;
   width: 100%;
 }
@@ -124,8 +124,9 @@
 
 #nashin {
   position: relative;
-  max-width: 40%;
-  left: 450px;
+  max-width: 38%;
+  top: 15px;
+  left: 550px;
   width: 100%;
   border-radius: 15%;
 
