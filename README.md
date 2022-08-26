@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Nashbi's React Portfolio
+
+<img width="721" alt="Screen Shot 2022-08-26 at 4 18 05 AM" src="https://user-images.githubusercontent.com/107282167/186856687-7c31cf98-3bc1-4272-86b9-297df4fe7df0.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
